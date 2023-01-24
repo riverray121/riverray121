@@ -6,15 +6,20 @@
 ### Interests
 
 - Robotics
+- Machine learning
+- Space
+- Molecular biology
 - iOS Development
 - WebDevelopment
-- Unity VR
-- Space
+- Unity XR
 
 ### Learning
 
 - C++, Python, Swift
-- ROS2, AWS EB, SwiftUI, Flask
+- ROS2
+- SwiftUI
+- AWS EB, Flask, React, Express, Node
+
 
 
 <!---
