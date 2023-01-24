@@ -9,6 +9,7 @@
 - Machine learning
 - Space
 - Molecular biology
+- Quantum computing
 - iOS Development
 - WebDevelopment
 - Unity XR
