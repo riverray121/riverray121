@@ -1,7 +1,10 @@
 # RIVERRAY121
-## eliriver@gmail.com
 
 **Project Manager, Amature Developer**
+eliriver@gmail.com
+
+Welcome to my GitHub, a collection of my hobby projects I have built for fun and to explore new skills.
+
 
 ### Interests
 
