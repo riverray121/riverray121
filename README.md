@@ -5,12 +5,12 @@ eliriver@gmail.com
 
 Welcome to my GitHub, a collection of my hobby projects I have built for fun and to explore new skills.
 
-### Learning
+### Have Experience With
 
-- C++, Python, Swift
-- ROS2
-- SwiftUI
-- AWS EB, Flask, React, Express, Node
+- Languages: C++, C, Python, Swift
+- Robotics: ROS2, ROS1, Arduino, Gazebo
+- iOS Development: SwiftUI, XCode
+- Web Development: AWS EB, Flask, React, Express, Node
 
 ### Interests
 
