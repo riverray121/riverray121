@@ -1,7 +1,7 @@
-# RIVERRAY121
+# Elijah / RIVERRAY121
 
-**Project Manager, Amature Developer**
-eliriver@gmail.com
+**Project Manager, Computer Science Major**
+er3211@columbia.edu
 
 Welcome to my GitHub, a collection of my hobby projects I have built for fun and to explore new skills.
 
