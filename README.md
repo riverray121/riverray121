@@ -1,30 +1,21 @@
 # Elijah / RIVERRAY121
 
-**Project Manager, Computer Science Major**
-er3211@columbia.edu
-
-Welcome to my GitHub, a collection of my hobby projects I have built for fun and to explore new skills.
+**SWE and PM**
+eliriver@gmail.com
 
 ### Have Experience With
 
-- Languages: C++, C, Python, Swift
-- Robotics: ROS2, ROS1, Arduino, Gazebo
+- Languages: C++, C, Python, JS, Swift
+- Robotics: ROS, Arduino, Gazebo
 - iOS Development: SwiftUI, XCode
-- Web Development: AWS EB, Flask, React, Express, Node
+- Web Development: AWS EB, Flask, React
 
 ### Interests
 
 - Robotics
-- Machine learning
 - Space
 - Molecular biology
 - Quantum computing
-- iOS Development
-- WebDevelopment
-- Unity XR
-
-
-
 
 
 <!---
