@@ -1,24 +1,12 @@
-# Elijah / RIVERRAY121
+# Elijah Retzlaff
 
-**SWE and PM**
-eliriver@gmail.com
+**Software Engineer**
 
-### Have Experience With
+[LinkedIn](https://www.linkedin.com/in/elijah-retzlaff/) · [Website](https://riverray121.github.io/elijah-website.github.io/) · eliriver@gmail.com
 
-- Languages: C++, C, Python, JS, Swift
-- Robotics: ROS, Arduino, Gazebo
-- iOS Development: SwiftUI, XCode
-- Web Development: AWS EB, Flask, React
+### Skills
+- **Languages:** Python, C, C++, TypeScript, JavaScript, PHP
+- **Tools:** GCP, Terraform, Docker, CUDA, ROS
 
 ### Interests
-
-- Robotics
-- Space
-- Molecular biology
-- Quantum computing
-
-
-<!---
-riverray121/riverray121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Robotics · Space · Molecular biology
